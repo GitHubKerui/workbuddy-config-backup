@@ -1,0 +1,13 @@
+{
+  "repo": "C:/Users/you/WorkBuddyBackup",
+  "remote": "https://github.com/you/wb-config-backup.git",
+  "branch": "main",
+  "auto_push": true,
+  "projects": [],
+  "project_roots": ["D:/projects"],
+  "max_file_bytes": 2000000,
+  "app_config_keep": ["locale", "personalization", "disableAgentTeams"],
+  "extra_exclude_globs": [],
+  "wb_dir": "",
+  "cb_dir": ""
+}

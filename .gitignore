@@ -1,0 +1,16 @@
+# 本机私有配置，禁止提交（里面是你自己的仓库路径与远程地址）
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 运行时产物
+*.db
+*.db-wal
+*.db-shm
+*.log
+*.tmp
+*.ndjson
+Thumbs.db
+.DS_Store
